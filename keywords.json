@@ -1,0 +1,18 @@
+{
+  "keywords":  [
+    "public",
+    "private",
+    "variable"
+  ],
+  "libraries": {
+    "runtime": {
+      "library": [
+        "import"
+      ]
+    }
+  },
+  "functions": [
+    "print",
+    "getzimpleenviroment"
+  ]
+}
